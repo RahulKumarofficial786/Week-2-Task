@@ -242,4 +242,4 @@ project/
 
 ---
 
-**Author:** [Your Name] | Data Analytics Internship Project
+**Author:** Rahul Kumar Rai | Data Analytics Internship Project
